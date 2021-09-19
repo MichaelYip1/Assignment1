@@ -1,4 +1,4 @@
-# Unit 1 Homework Assignment: FinTech Case Study
+# Wise FinTech Case Study
 
 ## Overview and Origin
 
